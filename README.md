@@ -1,5 +1,5 @@
 # Obsidian-Note-Consolidation-Toolkit
-The "Note Consolidation Toolkit" is a custom Python script designed for users of the Obsidian note-taking application. It streamlines the process of compiling a main note and all its internally linked notes into a single, comprehensive document. Here's a step-by-step guide on how to use it:
+The "Obsidian Note Consolidation Toolkit" is a custom Python script designed for users of the Obsidian note-taking application. It streamlines the process of compiling a main note and all its internally linked notes into a single, comprehensive document. Here's a step-by-step guide on how to use it:
 
 1. **Prepare Your Environment**:
    - Ensure Python is installed on your computer. You can download it from the official [Python website](https://www.python.org/downloads/).
